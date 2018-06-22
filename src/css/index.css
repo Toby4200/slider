@@ -3,4 +3,27 @@
     display: grid;
     grid-template-columns: 100% 100% 100%;
     grid-template-rows: 25% 100px auto;
+    /* overflow: hidden; */
+};
+
+.s__nav-container {
+    display: grid;
+};
+
+.s__nav {
+    display: block;
+    position: absolute;
+    left: 0;
+};
+
+.s__nav-left, .s__nav-right {
+
+};
+
+.s__nav-left {
+
+};
+
+.s__nav-right {
+
 };

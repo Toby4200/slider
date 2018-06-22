@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="338px" height="338px" viewBox="0 0 338 338" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>arrow-left</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="arrow-left" transform="translate(169.000000, 169.000000) rotate(180.000000) translate(-169.000000, -169.000000) " fill="#000000" fill-rule="nonzero">
+            <path d="M168.537,0.003 C75.594,0.003 0,75.606 0,168.54 C0,261.464 75.594,337.07 168.537,337.07 C261.462,337.07 337.074,261.464 337.074,168.54 C337.074,75.606 261.461,0.003 168.537,0.003 Z M224.328,177.265 L130.179,271.396 C127.771,273.804 124.627,275.011 121.46,275.011 C118.314,275.011 115.158,273.804 112.747,271.396 C107.928,266.581 107.928,258.774 112.747,253.958 L198.171,168.534 L112.741,83.106 C107.922,78.299 107.922,70.496 112.741,65.68 C117.557,60.858 125.36,60.858 130.173,65.68 L224.316,159.814 C229.143,164.634 229.143,172.437 224.328,177.265 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>
